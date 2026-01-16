@@ -37,18 +37,6 @@ High‑level flow:
 
 ## Screenshots
 
-Add screenshots to the repo (or `docs/`) and reference them here:
-
-| Screen            | Path                                    |
-| ----------------- | --------------------------------------- |
-| Home / Landing    | `docs/screenshots/home.png`             |
-| Explore Campaigns | `docs/screenshots/campaigns.png`        |
-| Campaign Details  | `docs/screenshots/campaign-details.png` |
-| Donate Flow       | `docs/screenshots/donate.png`           |
-| Admin Dashboard   | `docs/screenshots/admin.png`            |
-
-> Tips: keep images \~1400px wide; name files kebab‑case; compress with TinyPNG or Squoosh.
-
 ---
 
 ## Tech Stack
